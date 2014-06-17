@@ -1,3 +1,6 @@
+[![Build Status](https://www.gitbook.io/button/status/book/maxheld/samuelson)](https://www.gitbook.io/book/maxheld/samuelson/activity)
+
+
 > I don’t care who writes a nation’s laws — or crafts its advanced treatises — if I can write its economics textbooks.
 >
 > Paul A. Samuelson
