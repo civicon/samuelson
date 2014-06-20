@@ -2,6 +2,4 @@
 >
 > Paul A. Samuelson
 
-This material is developed for a [civicon](http://www.civicon.de) citizen conference on the economy and taxation, held as part of [Maximilian Held's](http://www.maxheld.de) dissertation on [taxation and democracy](http://www.maxheld.de/schumpeter).
-
 If you have feedback, or even a suggestion on how to improve this, please file an issue or add a pull request.
